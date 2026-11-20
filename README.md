@@ -1,8 +1,8 @@
-# Uno Server
+# Uno
 
 Project @ MJT 2024 - 2025 @ FMI Sofia University "St. Kliment Ohridski"
 
-Multiplayer server for playing the game Uno 
+Multiplayer server and clinet for playing the game Uno 
 
 ```
 List ot commands:
